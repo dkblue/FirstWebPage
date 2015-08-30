@@ -1,0 +1,77 @@
+#testo{
+
+	font-size:18px;
+	font-family: Verdana;
+	padding-bottom:13px;
+	padding-left: 5px;
+}
+
+#testo1{
+
+	font-size:15.5px;
+	font-family: Verdana;
+	padding-bottom:13px;
+	padding-left: 5px;
+}
+
+#testo3 {
+
+	font-size:18px;
+	font-family: Arial;
+	padding-left: 5px;
+	padding-top: 15px;	
+}
+
+h1 {
+
+	color:white;
+}
+
+
+#vitaimg {
+
+	margin-left: 350px;
+}
+
+.jumbotron {
+
+	background-image: url(../Immagini/yo3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+.jumbotron p {
+
+	color: #C7D4B2;
+	padding-top:25px;
+
+}
+
+.jumbotron h1 {
+
+	color: #CCD7DB;
+	padding-bottom:10px;
+}
+
+.nav {
+	padding-top: 3px;
+	padding-bottom: 8px;
+}
+
+.sub-heading {
+
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 30px;
+}
+
+.contenitore {
+
+	background-color: #DFE4E6;
+	margin-top: -29px;
+}
+
+
+
+
