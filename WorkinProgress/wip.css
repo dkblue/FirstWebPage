@@ -1,3 +1,9 @@
+* {
+
+	font-family: Verdana;
+}
+
+
 .jumbotron {
 
 	background-image: url(../Immagini/spiaggia2.jpg);
@@ -11,9 +17,8 @@
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 5px;
-	font-size: 23px;
+	font-size: 22px;
 	color: #E3E8C8;
-	font-family: Corbel;
 
 
 }
