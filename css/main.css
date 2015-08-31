@@ -37,8 +37,8 @@ h1 {
 
 	background-image: url(../Immagini/yo3.jpg);
 	background-repeat: no-repeat;
-	width:100%;
-}
+ 	background-size: cover;
+ }
 
 .jumbotron p {
 
