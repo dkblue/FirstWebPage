@@ -14,19 +14,18 @@
 
 .jumbotron p {
 
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-top: 5px;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 0.5%;
 	font-size: 22px;
 	color: #E3E8C8;
-
 
 }
 
 .jumbotron h1 {
 
 	color: #E3E8C8;
-	padding-left: 10px;
+	padding-left: 1%;
 }
 
 #ungaretti {
@@ -39,17 +38,15 @@
 
 .slide {
 
-	margin-bottom: 20px;
+	margin-bottom: 2%;
 }
 
 #pre-footer {
 
-	padding-left: 30px;
-	padding-right: 10px;
-	font-size: 26px;
+	padding-left: 1.5%;
+	padding-right: 1.5%;
+	font-size: 22px;
 	color: #114B9C;
-	font-style: italic;
-	font-family: Corbel;
 }
 
 body {
