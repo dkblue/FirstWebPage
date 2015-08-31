@@ -37,7 +37,7 @@
 	margin-bottom: 20px;
 }
 
-#footer {
+#pre-footer {
 
 	padding-left: 30px;
 	padding-right: 10px;
@@ -62,3 +62,18 @@ img {
 
 	background-color: #CEDBED;
 }
+
+.footer2 {
+
+	background-color: #2A2D30;
+	height:50px;
+
+}
+
+.footer2 p {
+
+	text-align: center;
+	color: #868D96;
+	padding-top: 1%;
+}
+
