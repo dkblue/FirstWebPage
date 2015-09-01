@@ -5,15 +5,15 @@
 
 
 .nav {
-	padding-top: 3px;
-	padding-bottom: 8px;
+	padding-top: 0.2%;
+	padding-bottom: 0.6%;
 }
 
 #testo{
 
 	font-size:18px;
-	padding-bottom:10px;
-	padding-left: 5px;
+	padding-bottom: 1%;
+	padding-left: 0.6%;
 }
 
 
@@ -21,8 +21,8 @@
 #testo3 {
 
 	font-size:18px;
-	padding-left: 5px;
-	padding-top: 15px;	
+	padding-left: 0.6%;
+	padding-top: 1.1%;	
 }
 
 
@@ -56,8 +56,8 @@ h5 {
 	text-align: center;
 	color: white;
 	font-size: 20px;
-	padding: 12px;
-	margin-top: 35px;
+	padding: 1%;
+	margin-top: 12%;
 	font-weight: bold;
 
 }
@@ -66,21 +66,21 @@ footer {
 
 	height: 50px;
 	background-color: #2A2D30;
-	margin-top: 15px;
+	margin-top: 1.1%;
 
 }
 
 #sotto p {
 	color: #868D96;
 	text-align: center;
-	padding-top: 17px;
+	padding-top: 1.2%;
 }
 
 #form {
 
-	margin-top: 32px;
-	margin-bottom: 22px;
-	margin-left: 30px;
+	margin-top: 7.5%;
+	margin-bottom: 2.5%;
+	margin-left: 7%;
 	display: inline-block;
 }
 
@@ -92,14 +92,14 @@ footer {
 
 #invia {
 	
-	margin-left: 88px;
+	margin-left: 33%;
 
 }
 
 
 #reset {
 
-	margin-left: 80px;
+	margin-left: 8%;
 }
 
 

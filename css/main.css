@@ -6,7 +6,7 @@
 #testo{
 
 	font-size:18px;
-	padding-bottom:13px;
+	padding-bottom: 1%;
 	padding-left: 1%;
 	line-height: 155%;
 }
@@ -14,7 +14,7 @@
 #testo1{
 
 	font-size:15.5px;
-	padding-bottom:13px;
+	padding-bottom:1%;
 	padding-left: 1%;
 }
 
@@ -26,11 +26,6 @@ h1 {
 }
 
 
-#vitaimg {
-
-	margin-left: 350px;
-}
-
 .jumbotron {
 
 	background-image: url(../Immagini/yo3.jpg);
@@ -41,32 +36,32 @@ h1 {
 .jumbotron p {
 
 	color: #C7D4B2;
-	padding-top:25px;
+	padding-top: 2.1%;
 
 }
 
 .jumbotron h1 {
 
 	color: #CCD7DB;
-	padding-bottom:10px;
+	padding-bottom: 1%;
 }
 
 .nav {
-	padding-top: 3px;
-	padding-bottom: 8px;
+	padding-top: 0.2%;
+	padding-bottom: 0.4%;
 }
 
 .sub-heading {
 
 	text-align: center;
-	padding-top: 35px;
-	padding-bottom: 30px;
+	padding-top: 2.2%;
+	padding-bottom: 2.4%;
 }
 
 .contenitore {
 
 	background-color: #DFE4E6;
-	margin-top: -29px;
+	margin-top: -2%;
 }
 
 .footer1 {
