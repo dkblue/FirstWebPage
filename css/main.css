@@ -87,3 +87,24 @@ h1 {
 	padding-bottom: 0.3%;
 }
 
+#overlay {
+  background: rgba(0,0,0,0.7); 
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 75%;
+  left: 0;
+  padding-bottom:10%;
+  display: none;
+  text-align: center;
+}
+
+#overlay img {
+
+  margin-top: 10%;
+}
+
+#overlay p {
+
+color: white;
+}
